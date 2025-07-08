@@ -2,7 +2,7 @@
 
 > **Note**  
 > We will open-source the full MFDENet code soon.  
-> For now, you can preview the network architecture and GC10-DET comparison results below.
+> Currently, we provide both the visualization results and the model architecture diagram.
 
 ---
 
